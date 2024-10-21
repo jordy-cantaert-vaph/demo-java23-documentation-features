@@ -72,7 +72,7 @@ public interface MyBoringInterface {
      *
      * <table>
      *     <thead>
-     *         <th>Javadoc format</th>
+     *         <th>JavaDoc format</th>
      *         <th>Developer review</th>
      *     </thead>
      *     <tbody>

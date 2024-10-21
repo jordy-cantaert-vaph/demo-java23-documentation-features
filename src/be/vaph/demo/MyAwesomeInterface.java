@@ -20,7 +20,6 @@ public interface MyAwesomeInterface {
     /// voor de JavaDoc markdown implementatie.
     void jep467();
 
-
     /// ### Links
     ///
     /// Links gebruiken een extended syntax van de standaard
@@ -58,7 +57,7 @@ public interface MyAwesomeInterface {
     /// Tabellen maken gebruik van de
     /// [Github Flavored Markdown Syntax](https://github.github.com/gfm/)
     ///
-    /// | Javadoc format   | Developer review |
+    /// | JavaDoc format   | Developer review |
     /// | ---------------- | ---------------- |
     /// | Oude JavaDoc     | 💩               |
     /// | Markdown JavaDoc | 😍               |
