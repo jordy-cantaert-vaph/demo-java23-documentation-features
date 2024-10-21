@@ -10,11 +10,11 @@ public interface MyAwesomeInterface {
     /// [OpenJDK article](https://openjdk.org/jeps/467)
     ///
     /// Het is nu mogelijk om JavaDoc te schrijven door midden van markdown.
-    /// Dit maakt het voor ons als developer eenvoudiger om complexere documentie
+    /// Dit maakt het voor ons als developer eenvoudiger om complexere documentatie
     /// te schrijven die onder andere lijsten, tables, code, en meer bevat.
     /// _(Markdown maakt het ook nog steeds mogelijk om html te gebruiken in de docs)_
     ///
-    /// Voor meer info over markdown synctax, zie de [markdown spec](https://spec.commonmark.org/0.30/)
+    /// Voor meer info over markdown syntax, zie de [markdown spec](https://spec.commonmark.org/0.30/)
     ///
     /// Hier volgen enkele voorbeelden waaronder enkele speciale aanpassingen
     /// voor de JavaDoc markdown implementatie.

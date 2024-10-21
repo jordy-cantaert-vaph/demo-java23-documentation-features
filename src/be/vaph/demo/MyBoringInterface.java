@@ -13,12 +13,12 @@ public interface MyBoringInterface {
      * <a href="https://openjdk.org/jeps/467">OpenJDK article</a>
      *
      * <p>Het is nu mogelijk om JavaDoc te schrijven door midden van markdown.
-     * Dit maakt het voor ons als developer eenvoudiger om complexere documentie
+     * Dit maakt het voor ons als developer eenvoudiger om complexere documentatie
      * te schrijven die onder andere lijsten, tables, code, en meer bevat.
      * <i>(Markdown maakt het ook nog steeds mogelijk om html te gebruiken in de docs)</i>
      * </p>
      *
-     * <p>Voor meer info over markdown synctax, zie de
+     * <p>Voor meer info over markdown syntax, zie de
      * <a href="https://spec.commonmark.org/0.30/">markdown spec</a>.</p>
      *
      * <p></p>Hier volgen enkele voorbeelden waaronder enkele speciale aanpassingen
